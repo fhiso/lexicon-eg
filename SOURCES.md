@@ -1,6 +1,6 @@
 #Source List#
 
-List of sources not available online, or which contain individual entries that cannot be cited via specific URLs.
+List of sources not available online, or which do not contain individual entries that can be cited via specific URLs.
 
 \[<a name="EE">EE</a>\] Elizabeth Shown Mills, "Glossary" in *Evidence Explained: Citing History Sources from Artifacts to Cyberspace* (Baltimore, Maryland: Genealogical Pub. Co., 2009).
 
