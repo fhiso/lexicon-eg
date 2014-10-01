@@ -1,4 +1,4 @@
-##asertion##
+##assertion##
 
 \[[EE](SOURCES.md#EE)\] A claim or statement of "fact".
 
