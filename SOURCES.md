@@ -10,8 +10,12 @@ List of sources not available online, or which do not contain individual entries
 
 \[<a name="GenTech">GenTech</a>\] “GENTECH Genealogical Data Model”, *National Genealogical Society: References for Researching* (http://www.ngsgenealogy.org/cs/GenTech_Projects), attachment “Data Model 1.1”.
 
+\[<a name="Gramps">Gramps</a>\] "Gramps Glossary", *Gramps: Genealogical Research Software* (https://gramps-project.org/wiki/index.php?title=Gramps_Glossary, revised 2014-04-11).
+
+\[<a name="Gramps2">Gramps2</a>\] "Genealogical Glossary", *Gramps: Genealogical Research Software* (https://gramps-project.org/wiki/index.php?title=Genealogy_Glossary, revised 2013-01-21).
+
 \[<a name="MGP">MGP</a>\] Thomas W. Jones, *Mastering Genealogical Proof* (Arlington, Virginia: NGS, 2013).
 
-\[<a name="STEMMA">STEMMA</a>\] "Glossary", *STEMMA Project* (www.parallaxview.co/familyhistorydata/home/glossary, revised 2014-10-02).
+\[<a name="STEMMA">STEMMA</a>\] "Glossary", *STEMMA Project* (http://www.parallaxview.co/familyhistorydata/home/glossary, revised 2014-10-02).
 
-\[<a name="STEMMA2">STEMMA2</a>\] "Glossary" in "Dates and Calendars", *STEMMA Project* (www.parallaxview.co/familyhistorydata/research-notes/dates-calendars#Glossary, revised 2014-10-02).
+\[<a name="STEMMA2">STEMMA2</a>\] "Glossary" in "Dates and Calendars", *STEMMA Project* (http://www.parallaxview.co/familyhistorydata/research-notes/dates-calendars#Glossary, revised 2014-10-02).
