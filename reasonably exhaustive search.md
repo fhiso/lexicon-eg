@@ -1,0 +1,3 @@
+##reasonably exhaustive search##
+
+\[[MGP](SOURCES.md#MGP)\] The Genealogical Proof Standard’s first 	element, requiring research thorough enough to meet five criteria: (1) yield at least two independent sources agreeing directly or indirectly on a research question’s answer, (2) cover sources competent genealogists would examine to answer the same research question, (3) provide at least some primary information and direct, indirect, or negative evidence from at least one original record, (4) replace, where possible, relevant authored works, derivative records, and secondary or indeterminable information, and (5) yield data from sources that indexes and databases identify as potentially relevant.
