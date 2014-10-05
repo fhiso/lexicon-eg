@@ -1,0 +1,5 @@
+##personal name##
+
+\[[Wikipedia](https://en.wikipedia.org/wiki/Personal_name) 2014-10-05\] A person's full nomenclature, also known as a *personal name* or *full name*, refers to a set of names by which an individual may be known, that are or can be recited as a group, with the understanding that they all relate to one person. In some cultures, individuals are known by a single name; in others they may possess a variety of names, some of which are specific to the individual and distinguish that person from other relatives, while others indicate the person's relationship to others, or membership in a family, clan, or other social structure.
+
+\[[BG](SOURCES.md#BG)\] The words by which a Person is known or referred to. In some genealogical Models a Name is an Attribute of a Person Entity. In some computer representations a Name is a Field of a Person Record. The computer representation of a Name's value is typically restricted with rules about length, character set, and overall formatting.
