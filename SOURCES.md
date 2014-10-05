@@ -14,7 +14,7 @@ List of sources not available online, or which do not contain individual entries
 
 \[<a name="Gramps2">Gramps2</a>\] "Genealogical Glossary", *Gramps: Genealogical Research Software* (https://gramps-project.org/wiki/index.php?title=Genealogy_Glossary, revised 2013-01-21).
 
-\[<a name="MGP">MGP</a>\] Thomas W. Jones, *Mastering Genealogical Proof* (Arlington, Virginia: NGS, 2013).
+\[<a name="MGP">MGP</a>\] Thomas W. Jones, "Glossary" in *Mastering Genealogical Proof* (Arlington, Virginia: NGS, 2013).
 
 \[<a name="STEMMA">STEMMA</a>\] "Glossary", *STEMMA Project* (http://www.parallaxview.co/familyhistorydata/home/glossary, revised 2014-10-02).
 
