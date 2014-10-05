@@ -1,4 +1,4 @@
-##Place Name Hierarchy##
+##place name hierarchy##
 
 See also [Place Hierarchy Path](place hierarchy path.md).
 
