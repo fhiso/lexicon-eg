@@ -1,0 +1,3 @@
+##RDF##
+
+\[[Wikipedia](http://en.wikipedia.org/wiki/Resource_Description_Framework) 2014-10-04\] The Resource Description Framework (RDF) is a family of World Wide Web Consortium (W3C) specifications [1] originally designed as a metadata data model. It has come to be used as a general method for conceptual description or modeling of information that is implemented in web resources, using a variety of syntax notations and data serialization formats. It is also used in knowledge management applications. RDF uses subject–predicate–object expressions (or "triples") to represent entity relationships. For instance: (sky)-(has)-(colour blue). This differs from the classical entity–attribute–value OO model which would use (sky)-(colour)-(blue).
