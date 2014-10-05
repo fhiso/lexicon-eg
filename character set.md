@@ -1,0 +1,3 @@
+##character set##
+
+\[[Wikipedia](http://en.wikipedia.org/wiki/Character_encoding) 2014-10-04\] In computing, a *character encoding* is used to represent a repertoire of characters by some kind of an encoding system. Depending on the abstraction level and context, corresponding code points and the resulting code space may be regarded as bit patterns, octets, natural numbers, electrical pulses, etc. A character encoding is used in each of computation, data storage, and transmission of textual data. Terms such as *character set*, *character map*, *codeset*, or *code page* are sometimes used as near synonyms; however, these terms have related but distinct meanings described in the article.
