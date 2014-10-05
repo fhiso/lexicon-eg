@@ -1,0 +1,3 @@
+##DOI##
+
+\[[BG](SOURCES.md#BG)\] Digital Object Identifier, managed by the [International DOI Foundation](http://www.doi.org/). The DOI System is for identifying objects in the digital environment. DOI names are assigned to any entity for use on digital networks. They are used to provide current information, including where they (or information about them) can be found on the Internet. Information about an object may change over time, including where to find it, but its DOI name will not change. NB: The identifier is digital but the objects may not be. It closely follows the [CIDOC Ontology](http://www.cidoc-crm.org/) and would be capable of identifying physical objects, Persons, Places, and Events.
