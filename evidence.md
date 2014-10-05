@@ -6,3 +6,7 @@
 
 \[[STEMMA](SOURCES.md#STEMMA)\] [Information](information.md) that either supports or contradicts a statement or conjecture.
 
+\[[BG](SOURCES.md#BG)\]  (dictionary) -- the available body of facts or information indicating whether a belief or proposition is true or valid; information given personally, drawn from a document, or in the form of material objects, tending or used to establish facts; signs; indications.
+(E&C Process) -- Information upon which conclusions may be based.
+(Model) -- Any Entity, Attribute or Relationship instance that is wholly created from the available actual Evidence.
+(Computer) -- Any Record or Field of a Record that contains data wholly derived from the available actual Evidence.
