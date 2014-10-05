@@ -1,0 +1,3 @@
+##evidence and conclusion process##
+
+\[[BG](SOURCES.md#BG)\] This process is intended to describe the steps genealogical researchers go through. It may be carried out formally, invoking the [Genealogical Proof Standard](Genealogical Proof Standard.md), for instance, or informally. In summary, it involves setting a research objective; looking for evidence to support or deny the objective; analysing the evidence and coming to a stated conclusion. Throughout the process, the researcher should review the current results and may loop back to re-start at a previous step — even altering the objective if it appears valueless.
