@@ -1,0 +1,3 @@
+##URN##
+
+\[[Wikipedia](http://en.wikipedia.org/wiki/Uniform_resource_name) 2014-10-04\] Uniform Resource Name. The historical name for a [URI](URI.md) that uses the urn scheme. Defined in 1997 in RFC 2141, URNs were intended to serve as persistent, location-independent identifiers. The existence of such a URI does not imply availability of the identified resource, but such URIs were required to remain globally unique and persistent, even when the resource ceases to exist or became unavailable. Since RFC 3986, in 2005, the use of the term has been deprecated in favour of the less-restrictive "URI".
