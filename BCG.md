@@ -1,3 +1,4 @@
 ##BCG##
 
-\[[BG](SOURCES.md#BG)\] Board for Certification of Genealogists. An organization that rigorously tests potential candidates on their knowledge and skills that meet the standards expressed in the [BCG Genealogical Standards Manual](http://www.bcgcertification.org/catalog/stdmanual.html). The process for becoming certified by the BCG is loosely defined at [How to Become Certified](http://www.bcgcertification.org/certification/index.html). (See also [BCG FAQs](http://www.bcgcertification.org/certification/faq.html)).
+\[[BCG](http://www.bcgcertification.org)\] Board for Certification of Genealogists: Since 1964, a non-profit Board that has articulated American standards for genealogical practice and (internationally) conducts rigorous testing of those who seek credentials as a Certified Genealogist. The most-recent edition of its standards manual is Genealogical Standards (2014). The certification process and portfolio requirements are detailed in the Board’s online publication [The BCG Application Guide](http://www.bcgcertification.org/brochures/BCGAppGuide2014.pdf).
+
