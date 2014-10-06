@@ -1,3 +1,5 @@
 ##source label##
 
-\[[EE](SOURCES.md#EE) sec. 2.4) Alternative name for [document label](document label.md).
+See also [document label](document label.md).
+
+\[[EE](SOURCES.md#EE) sec. 2.4) Citations we add to image copies of documents or to abstracts or transcriptions of documents.
