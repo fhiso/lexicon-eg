@@ -11,4 +11,4 @@ To request an addition to this Lexicon, please contact the editors by email at <
 
 Alternative collections of terms that have not been assimilated:
  * Dick Eastman, [Encyclopedia of Genealogy](http://www.eogen.com/_Index).
- * FamySearch [Genealogical Terms](https://familysearch.org/learn/wiki/en/Genealogical_Terms).
+ * FamilySearch [Genealogical Terms](https://familysearch.org/learn/wiki/en/Genealogical_Terms).
