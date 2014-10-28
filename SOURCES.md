@@ -8,7 +8,9 @@ List of sources not available online, or which do not contain individual entries
 
 \[<a name="BG2">BG2</a>\] "Pending Definitions", *BetterGEDCOM Wiki* (http://bettergedcom.wikispaces.com/Pending+Definitions, revised 2011-04-04).
 
-\[<a name="EE">EE</a>\] Elizabeth Shown Mills, "Glossary" in *Evidence Explained: Citing History Sources from Artifacts to Cyberspace* (Baltimore, Maryland: Genealogical Pub. Co., 2009); glossary rev. 2012.
+\[<a name="EE">EE</a>\] Elizabeth Shown Mills, "Glossary" in *Evidence Explained: Citing History Sources from Artifacts to Cyberspace,* 2d ed. rev. (Baltimore, Maryland: Genealogical Pub. Co., 2012).
+
+\[a name="EE-QL17">EE-QL17</a>/] Elizabeth Shown Mills, "QuickLesson 17: The Evidence Analysis Process Map," *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/quicklesson-17-evidence-analysis-process-map).
 
 \[<a name="GenTech">GenTech</a>\] “GENTECH Genealogical Data Model”, *National Genealogical Society: References for Researching* (http://www.ngsgenealogy.org/cs/GenTech_Projects), attachment “Data Model 1.1”.
 
