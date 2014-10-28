@@ -10,6 +10,8 @@ List of sources not available online, or which do not contain individual entries
 
 \[<a name="EE">EE</a>\] Elizabeth Shown Mills, "Glossary" in *Evidence Explained: Citing History Sources from Artifacts to Cyberspace,* 2d ed. rev. (Baltimore, Maryland: Genealogical Pub. Co., 2012).
 
+\[<a name=EE-OCDN">EE-OCDN</a>\] Elizabeth Shown Mills, "Overlong Citations & Discursive Notes," Evidence Explained: Historical Analysis, Citation & Source Usage (https://www.evidenceexplained.com/quicktips/overlong-citations-discursive-notes).
+
 \[<a name="EE-QL17">EE-QL17</a>\] Elizabeth Shown Mills, "QuickLesson 17: The Evidence Analysis Process Map," *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/quicklesson-17-evidence-analysis-process-map).
 
 \[<a name="GenTech">GenTech</a>\] “GENTECH Genealogical Data Model”, *National Genealogical Society: References for Researching* (http://www.ngsgenealogy.org/cs/GenTech_Projects), attachment “Data Model 1.1”.
