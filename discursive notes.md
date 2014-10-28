@@ -1,6 +1,6 @@
 ##discursive note##
 
-\[[EE](SOURCES.md#EE)\] separate discussions of issues [within a [reference note] (reference note.md)] that should be woven into the text or discussions of peripheral matters that do not directly relate to our subject. (EE 2.7)
+\[[EE](SOURCES.md#EE)\] separate discussions of issues [within a [reference note] (reference note.md)] that should be woven into the text; or discussions of peripheral matters that do not directly relate to our subject. (EE 2.7)
 
 \[[MGP](SOURCES.md#MGP)\] Reference notes containing discussion, usually along with one or more citations; see [reference note](reference note.md).
 
