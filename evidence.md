@@ -1,5 +1,7 @@
 ##evidence##
 
+\[[BCG](SOURCES.md#BCG)\] A research question’s tentative answer, which may be right or wrong, complete or incomplete, or vague or specific; may be *direct*, *indirect*, or *negative*.
+
 \[[EE](SOURCES.md#EE)\]  Information that is relevant to the problem. Common forms used in historical analysis include [best evidence](best evidence.md), [direct evidence](direct evidence.md), [indirect evidence](indirect evidence.md), and [negative evidence](negative evidence.md). In a legal context, [circumstantial evidence](circumstantial evidence.md) is also common.
 
 \[[MGP](SOURCES.md#MGP)\] A research question’s tentative answer, which may be right or wrong, complete or incomplete, or vague or specific; may be *direct*, *indirect*, or *negative*.
@@ -10,3 +12,5 @@
 (E&C Process) -- Information upon which conclusions may be based.
 (Model) -- Any Entity, Attribute or Relationship instance that is wholly created from the available actual Evidence.
 (Computer) -- Any Record or Field of a Record that contains data wholly derived from the available actual Evidence.
+
+
