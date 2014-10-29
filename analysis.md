@@ -1,5 +1,6 @@
 ##analysis##
 
+See also [Evidence Analysis Process Map] (Evidence Analysis Process Map.md)
 
 \[[BCG](SOURCES.md#BCG)\] The recognition of information and evidence items a source contains that are likely to answer a research question directly, indirectly, or negatively; also, a consideration of the characteristics, purpose, and history of a source and its relevant information items in order to determine their likely accuracy. 
 
