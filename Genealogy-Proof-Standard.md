@@ -1,2 +1,0 @@
-##Genealogical Proof Standard (GPS)##
-
