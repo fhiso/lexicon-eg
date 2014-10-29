@@ -8,6 +8,8 @@ List of sources not available online, or which do not contain individual entries
 
 \[<a name="BG2">BG2</a>\] "Pending Definitions", *BetterGEDCOM Wiki* (http://bettergedcom.wikispaces.com/Pending+Definitions, revised 2011-04-04).
 
+\[<a name="CMOS">CMOS</a>\] *Chicago Manual of Style*, 16th ed. (Chicago: University of Chicago Press, 2010).
+
 \[<a name="EE">EE</a>\] Elizabeth Shown Mills, "Glossary" in *Evidence Explained: Citing History Sources from Artifacts to Cyberspace,* 2d ed. rev. (Baltimore, Maryland: Genealogical Pub. Co., 2012).
 
 \[<a name=EE-OCDN">EE-OCDN</a>\] Elizabeth Shown Mills, "Overlong Citations & Discursive Notes," *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/quicktips/overlong-citations-discursive-notes).
