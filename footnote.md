@@ -1,5 +1,7 @@
 ##footnote##
 
+\[[BCG](SOURCES.md#BCG)\] A reference note appearing at the bottom of a page to document a statement on that page; see [reference note](reference note.md); compare with [endnote](endnote.md).
+
 \[[EE](SOURCES.md#EE)\]  A [reference note](reference note.md) placed at the bottom or foot of the page on which its corresponding "fact" appears.
 
 \[[MGP](SOURCES.md#MGP)\] A reference note appearing at the bottom of a page to document a statement on that page; see [reference note](reference note.md); compare with [endnote](endnote.md).
