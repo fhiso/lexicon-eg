@@ -14,7 +14,7 @@ List of sources not available online, or which do not contain individual entries
 
 \[<a name="EE">EE</a>\] Elizabeth Shown Mills, "Glossary" in *Evidence Explained: Citing History Sources from Artifacts to Cyberspace,* 2d ed. rev. (Baltimore, Maryland: Genealogical Pub. Co., 2012).
 
-\[<a name="EE=JWITR-">EE-JWITR</a>\] Elizabeth Shown Mills, "Just What Is 'Thorough Research'? *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/quicktips/just-what-thorough-research)
+\[<a name="EE=JWITR-">EE-JWITR</a>\] Elizabeth Shown Mills, "Just What Is 'Thorough Research'?" *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/quicktips/just-what-thorough-research)
 
 \[<a name=EE-OCDN">EE-OCDN</a>\] Elizabeth Shown Mills, "Overlong Citations & Discursive Notes," *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/quicktips/overlong-citations-discursive-notes).
 
