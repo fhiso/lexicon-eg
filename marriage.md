@@ -1,0 +1,3 @@
+##marriage##
+
+\[[Wikipedia](http://en.wikipedia.org/wiki/Marriage) 2014-10-30\] Also called *matrimony* or *wedlock* A socially or ritually recognized union or legal contract between spouses that establishes rights and obligations between them, between them and their children, and between them and their in-laws. The definition of marriage varies according to different cultures, but it is principally an institution in which interpersonal relationships -- usually sexual -- are acknowledged. In some cultures, marriage is recommended or considered to be compulsory before pursuing any sexual activity. When defined broadly, marriage is considered a cultural universal. 
