@@ -1,6 +1,6 @@
 ##repository##
 
-\[[BCG](SOURCES.md#BCG)\] An agency, building, or room housing source material, like an archive (personal, private, or public), courthouse, historical society, library, museum, or town hall, or office (business, governmental, personal, religious, or other use).
+\[[BCG](SOURCES.md#BCG)\] An agency, building, or room housing source material, like an archive (personal, private, or public), courthouse, historical society, library, museum, town hall, or office (business, governmental, personal, religious, or other use).
 
 \[[EE](SOURCES.md#EE)\]  An archive, government office, library, or other facility where research materials are held.
 
