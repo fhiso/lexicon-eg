@@ -1,0 +1,8 @@
+##reasonably exhaustive research##
+
+\[[BCG](SOURCES.md#BCG)\] A Genealogical Proof Standard component, requiring research thorough enough to meet five criteria: (a) yield at least two sources of independent information items agreeing directly or indirectly on a research question’s answer, (b) cover sources competent genealogists would examine to answer the same research question, (c) provide at least some primary information and direct, indirect, or negative evidence from at least one original record, (d) replace, where possible, relevant authored narratives, derivative records, and information that is secondary or undetermined, and (e) yield, where possible, data from sources that indexes and databases identify as potentially relevant.
+
+\[[EE] (SOURCES.md@EE)\] "Thorough research" that meets three criteria: (a) Using all identifiable resources for the area or problem; (b) Using original records, not just published derivatives; and (c) Not stopping with the first record that gives an "answer" because that answer may be wrong.
+
+
+\[[MGP](SOURCES.md#MGP)\] The Genealogical Proof Standard’s first 	element, requiring research thorough enough to meet five criteria: (1) yield at least two independent sources agreeing directly or indirectly on a research question’s answer, (2) cover sources competent genealogists would examine to answer the same research question, (3) provide at least some primary information and direct, indirect, or negative evidence from at least one original record, (4) replace, where possible, relevant authored works, derivative records, and secondary or indeterminable information, and (5) yield data from sources that indexes and databases identify as potentially relevant.
