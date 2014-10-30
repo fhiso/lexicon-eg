@@ -6,6 +6,6 @@ See also [proof argument] (proof argument.md), [proof statement] (proof statemen
 
 \[[EE](SOURCES.md#EE)\]  A conclusion backed by thorough research, sound analysis, and reliable evidence.
 
-\[[MGP](SOURCES.md#MGP)\] Genealogical data and conclusions that are acceptable because they meet the Genealogical Proof Standard’s five criteria.
+\[[MGP](SOURCES.md#MGP)\] Genealogical data and conclusions that are acceptable because they meet the [Genealogical Proof Standard](Genealogical Proof Standard.md)’s five criteria.
 
 \[[ODO](http://www.oxforddictionaries.com/definition/english/proof) 2013-12-24) Evidence or argument establishing a [fact](fact.md) or the truth of a statement.
