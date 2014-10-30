@@ -5,4 +5,4 @@
  * Agency and Book and Page or Certificate Number; Repository (for vital record indexes)
  * Author Title and FHL film Number (for records in the FS Historical Record Collections)
 
-\[[EE-QL19](SOURCES.md#EE-QL19\] a statement that identifies the materials cited by the derivative source we actually use; typically the last layer in a layered citation.
+\[[EE-QL19](SOURCES.md#EE-QL19)\] a statement that identifies the materials cited by the derivative source we actually use; typically the last layer in a layered citation.
