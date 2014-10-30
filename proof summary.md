@@ -1,6 +1,6 @@
 ##proof summary##
 
-See also [proof argument] (proof argument.md) and [proof statement] (proof statement.md).
+See also [proof] (proof.md), [proof argument] (proof argument.md), and [proof statement] (proof statement.md).
 
 \[[BCG](SOURCES.md#BCG)\] A documented narrative or list stating facts that support or lead to an acceptable conclusion and which may be a stand-alone product, may accompany an image, collection of images, or lineage-society application, or may appear in an article, blog, chapter, narrative family history, report, or other genealogical work in print, online, or elsewhere.
 
