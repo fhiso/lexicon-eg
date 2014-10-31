@@ -4,29 +4,27 @@ List of sources not available online, or which do not contain individual entries
 
 \[<a name="BCG">BCG</a>\] "Appendix D: Glossary", *Genealogy Standards* (Nashville & New York: Ancestry Imprint, Turner Publishing, 2014). 
 
+\[<a name="BCG-EARPM">BCG-EARPM</a>\] *Evidence Analysis: A Research Process Map* (Washington, D.C.: Board for Certification of Genealogists, 2007). 
+
 \[<a name="BG">BG</a>\] "Glossary of Terms", *BetterGEDCOM Wiki* (http://bettergedcom.wikispaces.com/Glossary+Of+Terms, revised 2012-03-06).
 
 \[<a name="BG2">BG2</a>\] "Pending Definitions", *BetterGEDCOM Wiki* (http://bettergedcom.wikispaces.com/Pending+Definitions, revised 2011-04-04).
 
-\[<a name="BCG-EARPM">BCG-EARMP</a>\], *Evidence Analysis: A Research Process Map* (Washington, D.C.: Board for Certification of Genealogists, 2007). 
-
 \[<a name="CMOS">CMOS</a>\] *Chicago Manual of Style*, 16th ed. (Chicago: University of Chicago Press, 2010).
 
-\[<a name="EE">EE</a>\] Elizabeth Shown Mills, "Glossary" in *Evidence Explained: Citing History Sources from Artifacts to Cyberspace,* 2d ed. rev. (Baltimore, Maryland: Genealogical Pub. Co., 2012).
+\[<a name="EE">EE</a>\] Elizabeth Shown Mills, "Glossary" in *Evidence Explained: Citing History Sources from Artifacts to Cyberspace*, 2d ed. rev. (Baltimore, Maryland: Genealogical Pub. Co., 2012).
 
-\[<a name="EE=JWITR-">EE-JWITR</a>\] Elizabeth Shown Mills, "Just What Is 'Thorough Research'?" *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/quicktips/just-what-thorough-research)
+\[<a name="EE-JWITR">EE-JWITR</a>\] Elizabeth Shown Mills, "Just What Is 'Thorough Research'?", *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/quicktips/just-what-thorough-research)
 
-\[<a name=EE-OCDN">EE-OCDN</a>\] Elizabeth Shown Mills, "Overlong Citations & Discursive Notes," *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/quicktips/overlong-citations-discursive-notes).
+\[<a name="EE-OCDN">EE-OCDN</a>\] Elizabeth Shown Mills, "Overlong Citations & Discursive Notes", *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/quicktips/overlong-citations-discursive-notes).
 
-\[<a name="EE-QL13">EE-QL13</a>\] Elizabeth Shown Mills, "QuickLesson 13: Classes of Evidence: Direct, Indirect, and Negative," *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/quicklesson-13-classes-evidence%E2%80%94direct-indirect-negative).
+\[<a name="EE-QL13">EE-QL13</a>\] Elizabeth Shown Mills, "QuickLesson 13: Classes of Evidence: Direct, Indirect, and Negative", *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/quicklesson-13-classes-evidence%E2%80%94direct-indirect-negative).
 
-\[<a name="EE-QL16">EE-QL17</a>\] Elizabeth Shown Mills, "QuickLesson 16: Speculation, Hypothesis, Interpretation & Proof," *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/quicklesson-16-speculation-hypothesis-interpretation-proof).
+\[<a name="EE-QL16">EE-QL16</a>\] Elizabeth Shown Mills, "QuickLesson 16: Speculation, Hypothesis, Interpretation & Proof", *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/quicklesson-16-speculation-hypothesis-interpretation-proof).
 
-\[<a name="EE-QL17">EE-QL17</a>\] Elizabeth Shown Mills, "QuickLesson 17: The Evidence Analysis Process Map," *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/quicklesson-17-evidence-analysis-process-map).
+\[<a name="EE-QL17">EE-QL17</a>\] Elizabeth Shown Mills, "QuickLesson 17: The Evidence Analysis Process Map", *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/quicklesson-17-evidence-analysis-process-map).
 
 \[<a name="EE-QL19">EE-QL19</a>\] Elizabeth Shown Mills, "QuickLesson 19: Layered Citations Work Like Layered Clothing," *Evidence Explained: Historical Analysis, Citation & Source Usage* (https://www.evidenceexplained.com/content/quicklesson-19-layered-citations-work-layered-clothing).
-
-\[<a name="WHE-NGSQ">WHE-NGSQ</a>\] Elizabeth Shown Mills, "Working with Historical Evidence: Genealogical Principles and Standards," *National Genealogical Society Quarterly*, 87 (September 1999), 165–84.
 
 \[<a name="GenTech">GenTech</a>\] “GENTECH Genealogical Data Model”, *National Genealogical Society: References for Researching* (http://www.ngsgenealogy.org/cs/GenTech_Projects), attachment “Data Model 1.1”.
 
@@ -39,3 +37,5 @@ List of sources not available online, or which do not contain individual entries
 \[<a name="STEMMA">STEMMA</a>\] "Glossary", *STEMMA Project* (http://www.parallaxview.co/familyhistorydata/home/glossary, revised 2014-10-02).
 
 \[<a name="STEMMA2">STEMMA2</a>\] "Glossary" in "Dates and Calendars", *STEMMA Project* (http://www.parallaxview.co/familyhistorydata/research-notes/dates-calendars#Glossary, revised 2014-10-02).
+
+\[<a name="WHE-NGSQ">WHE-NGSQ</a>\] Elizabeth Shown Mills, "Working with Historical Evidence: Genealogical Principles and Standards", *National Genealogical Society Quarterly*, 87 (September 1999), 165–84.
