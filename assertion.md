@@ -1,5 +1,9 @@
 ##assertion##
 
+
+Assertion:
+\[[Wikipedia](https://en.wikipedia.org/wiki/Assertion_%28software_development%29) 2014-11-03\] (computing) A predicate (a true–false statement) placed in a program to indicate that the developer thinks that the predicate is always true at that place.
+
 \[[EE](SOURCES.md#EE)\] A claim or statement of "fact".
 
 \[[GenTech](SOURCES.md#GenTech)\] A programmatic statement of something being true (or untrue) that was derived from a source fragment or the result of prior assertions.
