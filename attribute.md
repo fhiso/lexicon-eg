@@ -8,4 +8,4 @@ See also [fact](fact.md), [property](property.md), and [PFACT](PFACT.md).
 
 \[[Gramps](SOURCES.md#Gramps)\] (sec. obj.) Attributes are for something permanent, or at least somewhat permanent: eye color, blood type, etc. Usually you would have not more than one of each attribute type for a person/family/etc. 
 
-\[[Wikipedia](http://en.wikipedia.org/wiki/XML) 2014-10-23\] (XML context) A markup construct consisting of a name/value pair that exists within a [start-tag](tag.md) or empty-element tag. In the following example  the element img has two attributes, src and alt: ```<img src="madonna.jpg" alt='Foligno Madonna, by Raphael' />```.
+\[[Wikipedia](http://en.wikipedia.org/wiki/XML#Key_terminology) 2014-10-23\] (XML context) A markup construct consisting of a name/value pair that exists within a [start-tag](tag.md) or empty-element tag. In the following example  the element img has two attributes, src and alt: ```<img src="madonna.jpg" alt='Foligno Madonna, by Raphael' />```.
