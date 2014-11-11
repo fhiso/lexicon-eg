@@ -5,7 +5,7 @@ program like pandoc or mmd.
 
 USAGE: 
 	$ python mergedmd.py
-	$ pandoc -s --to="html" lexicon-$(date +%Y-%m-%d).md
+	$ pandoc -s --to="html" lexicon-$(date +%Y-%m-%d).md > lexicon-$(date +%Y-%m-%d).html
 '''
 
 import re, glob, datetime
