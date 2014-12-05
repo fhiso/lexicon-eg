@@ -23,3 +23,5 @@ Personal Commentary
 See Discussion [Differences from FS Personas?](http://bettergedcom.wikispaces.com/message/view/Defining+E%26C+for+BetterGEDCOM/37800364) and [The Evidence Architecture of the New FamilySearch Tree](http://ancestryinsider.blogspot.com/2010/06/evidence-architecture-of-new.html).
 
 \[[STEMMA](SOURCES.md#STEMMA)\] A description of some person from one specific information source, and with no interpretation. Origin is uncertain but there is some history in [Genealogical Persona Non Grata](http://parallax-viewpoint.blogspot.com/2013/09/genealogical-persona-non-grata.html).
+
+\[EE](https://www.evidenceexplained.com/quicktips/proving-identity) 2014-12-05\] PERSONA is the composite we create by reconstructing the full course of a human life, by considering all the elements that make this person unique, and by thoroughly researching other same-name people of the place and time to sort them correctly.
