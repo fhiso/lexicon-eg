@@ -34,7 +34,7 @@ List of sources not available online, or which do not contain individual entries
 
 \[<a name="MGP">MGP</a>\] Thomas W. Jones, "Glossary" in *Mastering Genealogical Proof* (Arlington, Virginia: NGS, 2013).
 
-\[<a name="STEMMA">STEMMA</a>\] "Glossary", *STEMMA Project* (<http://www.parallaxview.co/familyhistorydata/home/glossary>, revised 2014-10-02).
+\[<a name="STEMMA">STEMMA</a>\] "Glossary", *STEMMA Project* (<http://www.parallaxview.co/familyhistorydata/home/glossary>, revised 2015-10-26).
 
 \[<a name="STEMMA2">STEMMA2</a>\] "Glossary" in "Dates and Calendars", *STEMMA Project* (<http://www.parallaxview.co/familyhistorydata/research-notes/dates-calendars#Glossary>, revised 2014-10-02).
 
