@@ -7,7 +7,7 @@ The cover text is intended for posting on fhiso.org/lexeg/somepage.
 
 USAGE: 
 	$ python mergedmd.py
-	$ pandoc --to="html" lexicon-$(date +%Y-%m-%d).md > lexicon-$(date +%Y-%m-%d).html
+	$ pandoc --to="html" lexicon-$(TZ=UTC date +%Y-%m-%d).md > lexicon-$(date +%Y-%m-%d).html
 '''
 
 import re, glob, datetime
@@ -41,7 +41,7 @@ def processMD(out, f, quoteLevel=0):
 with open("lexicon-"+today+".md","w") as out:
 	print >> out, "#Lexicon snapshot ("+today+")#"
 	print >> out, ""
-	print >> out, """This lexicon is an auto-generated snapshot of the individual markdown files contained in the main directory of the lexicon exploratory group's github repository.  See <a href="..">the lexicon exploratory group's main page</a> for more."""
+	print >> out, """This lexicon is an auto-generated snapshot of the individual markdown files contained in the main directory of the lexicon exploratory group's github repository.  See <a href=".">the lexicon exploratory group's main page</a> for more."""
 	print >> out, ""
 	
 	print >> out, "The README for this project contains the following:"
