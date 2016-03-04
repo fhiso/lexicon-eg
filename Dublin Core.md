@@ -1,0 +1,3 @@
+##Dublin Core##
+
+\[[Wikipedia](https://en.wikipedia.org/wiki/Dublin_Core) 2016-03-04\] A small set of vocabulary terms that can be used to describe web resources (video, images, web pages, etc.), as well as physical resources such as books or CDs, and objects like artworks. The full set of Dublin Core metadata terms can be found on the Dublin Core Metadata Initiative (DCMI) website. The original set of 15 classic metadata terms, known as the Dublin Core Metadata Element Set, are endorsed in the following standards documents: IETF RFC 5013, ISO Standard 15836-2009, NISO Standard Z39.85. Qualified Dublin Core was an initiative that was deprecated in 2012.
