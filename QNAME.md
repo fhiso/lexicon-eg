@@ -1,0 +1,3 @@
+##QNAME##
+
+\[[Wikipedia](https://en.wikipedia.org/wiki/QName) 2016-03-05\] Introduced by XML Namespaces in order to be used as URI references. QName stands for "qualified name" and defines a valid identifier for elements and attributes. QNames are generally used to reference particular elements or attributes within XML documents. Since URI references can be long and may contain prohibited characters for element/attribute naming, QNames are used to create a mapping between the URI and a namespace prefix. The mapping enables the abbreviation of URIs, therefore it achieves a more convenient way to write XML documents.
