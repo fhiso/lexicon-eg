@@ -1,0 +1,7 @@
+##microformat##
+
+\[[Wikipedia](https://en.wikipedia.org/wiki/Microformat) 2016-03-23\] (sometimes abbreviated μF) A World Wide Web-based approach to semantic markup which uses HTML/XHTML tags supported for other purposes to convey additional metadata and other attributes in web pages and other contexts that support (X)HTML, such as RSS. This approach allows software to process information intended for end-users (such as contact information, geographic coordinates, calendar events, and similar information) automatically.
+
+Although the content of web pages has been capable of some "automated processing" since the inception of the web, such processing is difficult because the markup tags used to display information on the web do not describe what the information means. Microformats can bridge this gap by attaching semantics, and thereby obviate other, more complicated, methods of automated processing, such as natural language processing or screen scraping. The use, adoption and processing of microformats enables data items to be indexed, searched for, saved or cross-referenced, so that information can be reused or combined.
+
+As of 2013 microformats allow the encoding and extraction of event details, contact information, social relationships and similar information. Established microformats such as hCard are published on the web more than alternatives like schema (microdata) and RDFa.
