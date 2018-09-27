@@ -9,7 +9,7 @@
 4. A resolution of conflicting evidence;
 5. A soundly reasoned, coherently written conclusion.
 
-\[[BCG](https://bcgcertification.org/ethics-standards/#GPS) 2018-09-27\]
+\[[BCG](https://bcgcertification.org/ethics-standards/#GPS) 2018-09-27\] Contains five components:
 1. Reasonably exhaustive research.
 2. Complete and accurate source citations.
 3. Thorough analysis and correlation.
